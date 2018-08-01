@@ -7,3 +7,4 @@ test
 test2
 
 new branch
+new branch commit 1
