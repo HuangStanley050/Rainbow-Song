@@ -8,3 +8,4 @@ test2
 
 new branch
 new branch commit 1
+new branch commit 2
